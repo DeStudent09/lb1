@@ -1,0 +1,3 @@
+[submodule "lb2"]
+	path = lb2
+	url = git@github.com:DeStudent09/lb2.git
